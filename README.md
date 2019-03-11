@@ -1,6 +1,5 @@
-# Counting possible board moves 
-- for any combination of checkers
-- for any size of chessboard
-- bit of performance tunning
+# Collecting all possible combinations on chessboard for:
+- any combination of figures
+- any size of chessboard
 
-PS: bigger chessboards (8+) and pieces numbers (10+) might take a while to copute.
+There was a bit of performance tunning hovewer bigger chessboards (8+) and pieces numbers (10+) might take a while to copute.
